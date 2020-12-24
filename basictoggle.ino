@@ -4,8 +4,8 @@
 #include <EasyBuzzer.h>
 #include <NewPing.h>
 #include "sonar.h"
-const char* ssid     = "Nova";
-const char* password = "somebody";
+const char* ssid     = "*** Wifi Name";
+const char* password = "*** Wifi Password";
 
 #define APPID   "iotproject1234"
 #define KEY     "1hSwWjllFpQhqjy"
