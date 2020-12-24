@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include <DHT.h>
 
-const char* ssid     = "FANCIA_2.4G";
-const char* password = "NAVINASAWIN";
+const char* ssid     = *WIFI Name*;
+const char* password = *WiFI Password*;
 
 #define APPID   "iotproject1234"
 #define KEY     "1hSwWjllFpQhqjy"
